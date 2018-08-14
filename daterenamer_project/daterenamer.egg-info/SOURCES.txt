@@ -1,0 +1,8 @@
+daterenamer.py
+setup.py
+daterenamer.egg-info/PKG-INFO
+daterenamer.egg-info/SOURCES.txt
+daterenamer.egg-info/dependency_links.txt
+daterenamer.egg-info/entry_points.txt
+daterenamer.egg-info/requires.txt
+daterenamer.egg-info/top_level.txt
